@@ -1,0 +1,2 @@
+print("texto")
+print('texto')
